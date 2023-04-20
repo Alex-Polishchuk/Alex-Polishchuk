@@ -2,23 +2,14 @@
 
 - ⚗️: Graduated from Imperial College London with a masters in chemical engineering 
 - Currently training to be a data engineering consultant at Xander Talent
-- 🥅 2023 Goals: 
+- 🥅 2023 Goals: Work on Github and have more projects! 
 - ✨ During my spare time I enjoy playing football ⚽ and learning more about coding 💻
 
 In September 2022 graduated from Imperial College London (MSc Advanced Chemical Engineering) and I wanted to continue working with data and have decided to pursue a career in data engineering. I am curerently training at Xander Talent as a data engineering consultant. 
 
-I now have a deep understanding of agile methodologies and 
-<!--
-**Alex-Polishchuk/Alex-Polishchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I now have a deep understanding of agile methodologies and how to work within agile teams. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Repo Name | Description |
+| ----------- | ----------- |
+| Project1      | Add in descritpion       |
+| Project2   | Add in description        | 
