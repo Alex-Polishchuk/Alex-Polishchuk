@@ -14,7 +14,6 @@ I now have a deep understanding of agile methodologies and how to work within ag
 | [Premier League Data Project](https://github.com/Alex-Polishchuk/PremierLeague_data)      | Find trends in Premier League data| Python, Pandas, NumPy, SQL|
 | Project2   | Add in description        | Add in|
 
-![alt text](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg)
-<img src="(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg)" width="100" height="100">
+<img src="(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg)" width="50" height="50">
 
 ![LinkedIn Data](https://user-images.githubusercontent.com/58093667/233402130-bbedd678-5e85-4e7c-94b3-8947aa70223a.png)
