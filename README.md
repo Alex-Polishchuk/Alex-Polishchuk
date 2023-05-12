@@ -15,5 +15,5 @@ I now have a deep understanding of agile methodologies and how to work within ag
 | Project2   | Add in description        | Add in|
 
 <img src="(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg)" width="50" height="50">
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 ![LinkedIn Data](https://user-images.githubusercontent.com/58093667/233402130-bbedd678-5e85-4e7c-94b3-8947aa70223a.png)
