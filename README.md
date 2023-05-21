@@ -12,7 +12,7 @@ I now have a deep understanding of agile methodologies and how to work within ag
 | Project Name | Description | Tools used |
 | ----------- | ----------- | ----------- |
 | [Premier League Data Project](https://github.com/Alex-Polishchuk/PremierLeague_data)      | Find trends in Premier League data| Python, Pandas, NumPy, SQL|
-| Project2   | Add in description        | Add in|
+| [Name Picker Project ](https://github.com/Alex-Polishchuk/Random-Name-Generator)       | Pick a few names out of a larger provided selection      | Python |
 
 
 Languages and libraries I am currently familiar in:
