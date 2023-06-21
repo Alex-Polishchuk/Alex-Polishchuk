@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Alex
 
 - ⚗️ Graduated from Imperial College London with a masters in chemical engineering 
-- 🕴️ Currently training to be a data engineering consultant at Xander Talent
 - 🥅 2023 Goals: Work on Github and have more projects! 
 - ✨ During my spare time I enjoy playing football ⚽ and learning more about coding 💻
 
@@ -31,3 +30,4 @@ Languages and libraries I want to learn:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" height="70px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="70px">
 </div>
+Some other technologies I would like to learn are Spark, Hadoop, Kubernetes
